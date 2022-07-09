@@ -1,10 +1,32 @@
-# Health_Log
+# 🏋️‍♀️Health Training_Log
 
- ## [nSuns 5/3/1](https://liftvault.com/programs/powerlifting/n-suns-lifting-spreadsheets/)
+ ## 💪[nSuns 5/3/1](https://liftvault.com/programs/powerlifting/n-suns-lifting-spreadsheets/)
 
 nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Jim Wendler’s 5/3/1 strength program. It progresses on a weekly basis, making it well suited for late stage novice and early intermediate lifters. It is known for its challenging amount of volume. Those who stick with it tend to find great results from the additional work capacity.
 
 
+
+> [Program Sheet](./nSuns Linear Progression Complete Bundle.xlsx) 
+>
+> 
+> It is set to my 1RM. You can copy it and set it as your own 1RM.
+> 
+
+  ⭐[Reference Site](https://m.blog.naver.com/tbvjaos7654/222463187253)⭐
+
+## 4 Days Program
+
+> MON : Bench Press & OHP(Over Head Press)
+>
+> TUE : Squat & Sumo Deadlift 
+>
+> WED : Rest
+>
+> 
+>
+> 
+>
+>  
 
 
 
