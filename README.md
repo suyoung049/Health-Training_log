@@ -6,7 +6,7 @@ nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Ji
 
 
 
-> [Program Sheet](./nSuns Linear Progression Complete Bundle.xlsx) 
+> [Program Sheet](./nSuns.xlsx) 
 >
 > 
 > It is set to my 1RM. You can copy it and set it as your own 1RM.
