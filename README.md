@@ -22,15 +22,15 @@ nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Ji
 >
 > WED : Rest
 >
-> 
+> THU : Bench Press & C.G(Close Grip) Bench Press
+>
+> FRI : Rest
+>
+> SAT : Deadlift & Front Squat
+>
+> SUN : Rest
 >
 > 
->
->  
-
-
-
-
 
 ## July
 
