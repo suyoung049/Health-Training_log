@@ -14,7 +14,7 @@ nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Ji
 
   ⭐[Reference Site](https://m.blog.naver.com/tbvjaos7654/222463187253)⭐
 
-## 4 Days Program
+## 🏃‍♂️4 Days Program
 
 > MON : Bench Press & OHP(Over Head Press)
 >
@@ -32,17 +32,17 @@ nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Ji
 >
 > 
 
-## July
+## 🏆 July
 
 
 
-|  *일*   |  월  |  화  |  수  |  목  |  금  |  토  |
-| :-----: | :--: | :--: | :--: | :--: | :--: | :--: |
-|         |      |      |      |      |  1   |  2   |
-|   *3*   |  4   |  5   |  6   |  7   |  8   |  9   |
-|  *10*   |  11  |  12  |  13  |  14  |  15  |  16  |
-|  *17*   |  18  |  19  |  20  |  21  |  22  |  23  |
-| *24/31* |  25  |  26  |  27  |  28  |  29  |  30  |
+|  *일*   |  월  |  화  |  수  |  목  |  금  |           토           |
+| :-----: | :--: | :--: | :--: | :--: | :--: | :--------------------: |
+|         |      |      |      |      |  1   |           2            |
+|   *3*   |  4   |  5   |  6   |  7   |  8   | [9](./July/7.9_SAT.md) |
+|  *10*   |  11  |  12  |  13  |  14  |  15  |           16           |
+|  *17*   |  18  |  19  |  20  |  21  |  22  |           23           |
+| *24/31* |  25  |  26  |  27  |  28  |  29  |           30           |
 
 
 
