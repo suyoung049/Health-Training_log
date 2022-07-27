@@ -42,7 +42,7 @@ nSuns 5/3/1 is a linear progression powerlifting program that was inspired by Ji
 |   *3*   |             4              |             5             |  6   |             7             |  8   |  ✔[9](./July/7.9_SAT.md)  |
 |  *10*   | 🏃‍♂️[11](./July/7.11_MON.md) | 😌[12](./July/7.12_TUE.md) |  13  | 😫[14](./July/7.14_THU.md) |  15  |            16             |
 |  *17*   |             18             | 🚑[19](./July/7.19_TUE.md) |  20  |            21             |  22  | 😏[23](./July/7.23_SAT.md) |
-| *24/31* |             25             |            26             |  27  |            28             |  29  |            30             |
+| *24/31* | 😣[25](./July/7.25_MON.md)  | ❌[26](./July/7.26_TUE.md) |  27  |            28             |  29  |            30             |
 
 
 
